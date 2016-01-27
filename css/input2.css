@@ -1,0 +1,112 @@
+body {
+  font: Helvetica, sans-serif;
+  color: #333;
+  background: #CCC;
+  position: relative; }
+
+.container {
+  background: white; }
+
+.projectHeader {
+  border-bottom: 1px solid #000;
+  background: #3399CC; }
+  .projectHeader .headerTitle {
+    color: white; }
+  .projectHeader .headerMenu {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center; }
+
+.yellow {
+  color: yellow; }
+
+.blue {
+  color: blue; }
+
+.white {
+  color: #CCCCCC; }
+
+.grey {
+  color: #999999; }
+
+.darkGrey {
+  color: #666666; }
+
+.displayNone {
+  display: none; }
+
+#navbarList {
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+
+.formOption {
+  padding: 5px 10px;
+  white-space: nowrap; }
+
+.cityBody {
+  border-top: 4px solid #3399CC; }
+
+.cityForecast {
+  background: #75BBDD;
+  padding-bottom: 10px; }
+
+.forecastHeader {
+  background: #3399CC; }
+
+.build {
+  font-size: 10px; }
+
+.temperature, .condition {
+  font-size: 125%;
+  font-weight: bold; }
+
+.sunRiseSet {
+  width: 80%;
+  margin: 10px;
+  max-width: 300px; }
+
+.sunRiseSet td {
+  width: 50%; }
+
+.otherConditions {
+  width: 80%;
+  margin: 10px;
+  padding: 0;
+  max-width: 300px; }
+
+.otherConditions td {
+  width: 50%; }
+
+.dailyForecast {
+  width: 95%; }
+
+.dailyForecast h4 {
+  background: #ACACAC;
+  padding: 10px;
+  width: 100%; }
+
+.dailyForecast table {
+  background: #CCCCCC; }
+
+.dailyForecast td {
+  width: 33%;
+  border-bottom: 1px solid #000; }
+
+.projectBody {
+  padding: 5px; }
+
+.locationMap {
+  margin: 0 auto;
+  padding: 5px; }
+
+.projectFooter {
+  border-top: 1px solid #000;
+  padding: 5px;
+  background: #3399CC; }
+
+h1 {
+  text-align: center;
+  font: Helvetica, sans-serif; }
+
+/*# sourceMappingURL=input2.css.map */
